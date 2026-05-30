@@ -42,6 +42,9 @@ Here are example of user input and  assistant output, pay attention to the score
     | 出す	    | dasu	 |to put out, to take out
     | あなた	|anata	 | you
 
+    Sentence structure :
+    [Location] [Subject] [Verb], [Object] [Verb-past]
+
     I left out particles on purpose — you'll choose them.
 
     Possible sentence structure
