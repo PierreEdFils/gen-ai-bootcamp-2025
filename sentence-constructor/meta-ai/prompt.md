@@ -64,4 +64,4 @@ Here are example of user input and  assistant output, pay attention to the score
     </assistant:output>
 </example>
 
-Student Input: Bear are the door, did you leave the garbage out
+Student Input: Did you see the raven this morning ,they were looking at our garden.
